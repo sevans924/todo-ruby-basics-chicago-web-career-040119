@@ -10,7 +10,7 @@ def argue(ment)
 return ment
 end
 
-def greeting
+def greeting(greeting, name)
 
 end
 
