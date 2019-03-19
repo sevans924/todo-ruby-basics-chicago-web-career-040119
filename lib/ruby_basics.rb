@@ -15,7 +15,7 @@ def greeting(greeting, name)
 end
 
 def return_a_value
-  learn "Nice"
+  return "Nice"
 
 end
 
